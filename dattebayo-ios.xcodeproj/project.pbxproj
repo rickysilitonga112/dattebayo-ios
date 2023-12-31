@@ -7,20 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5618959D2B41A195002BBD05 /* NPCharacterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5618959C2B41A195002BBD05 /* NPCharacterViewController.swift */; };
+		5618959F2B41A19F002BBD05 /* NPClanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5618959E2B41A19F002BBD05 /* NPClanViewController.swift */; };
+		561895A12B41A1C9002BBD05 /* NPVillageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561895A02B41A1C9002BBD05 /* NPVillageViewController.swift */; };
+		561895A32B41A1D7002BBD05 /* NPTeamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561895A22B41A1D7002BBD05 /* NPTeamViewController.swift */; };
+		561895A52B41A1EA002BBD05 /* NPCharacterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561895A42B41A1EA002BBD05 /* NPCharacterView.swift */; };
+		561895A72B41A1F2002BBD05 /* NPClanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561895A62B41A1F2002BBD05 /* NPClanView.swift */; };
+		561895A92B41A1FE002BBD05 /* NPVillageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561895A82B41A1FE002BBD05 /* NPVillageView.swift */; };
+		561895AB2B41A206002BBD05 /* NPTeamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561895AA2B41A206002BBD05 /* NPTeamView.swift */; };
 		567CC7DF2B3EDB5F00891B1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567CC7DE2B3EDB5F00891B1E /* AppDelegate.swift */; };
 		567CC7E12B3EDB5F00891B1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567CC7E02B3EDB5F00891B1E /* SceneDelegate.swift */; };
-		567CC7E32B3EDB5F00891B1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567CC7E22B3EDB5F00891B1E /* ViewController.swift */; };
-		567CC7E62B3EDB5F00891B1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 567CC7E42B3EDB5F00891B1E /* Main.storyboard */; };
+		567CC7E32B3EDB5F00891B1E /* NPTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567CC7E22B3EDB5F00891B1E /* NPTabBarViewController.swift */; };
 		567CC7E82B3EDB6100891B1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 567CC7E72B3EDB6100891B1E /* Assets.xcassets */; };
 		567CC7EB2B3EDB6100891B1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 567CC7E92B3EDB6100891B1E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5618959C2B41A195002BBD05 /* NPCharacterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPCharacterViewController.swift; sourceTree = "<group>"; };
+		5618959E2B41A19F002BBD05 /* NPClanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPClanViewController.swift; sourceTree = "<group>"; };
+		561895A02B41A1C9002BBD05 /* NPVillageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPVillageViewController.swift; sourceTree = "<group>"; };
+		561895A22B41A1D7002BBD05 /* NPTeamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPTeamViewController.swift; sourceTree = "<group>"; };
+		561895A42B41A1EA002BBD05 /* NPCharacterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPCharacterView.swift; sourceTree = "<group>"; };
+		561895A62B41A1F2002BBD05 /* NPClanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPClanView.swift; sourceTree = "<group>"; };
+		561895A82B41A1FE002BBD05 /* NPVillageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPVillageView.swift; sourceTree = "<group>"; };
+		561895AA2B41A206002BBD05 /* NPTeamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPTeamView.swift; sourceTree = "<group>"; };
 		567CC7DB2B3EDB5F00891B1E /* dattebayo-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dattebayo-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		567CC7DE2B3EDB5F00891B1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		567CC7E02B3EDB5F00891B1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		567CC7E22B3EDB5F00891B1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		567CC7E52B3EDB5F00891B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		567CC7E22B3EDB5F00891B1E /* NPTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NPTabBarViewController.swift; sourceTree = "<group>"; };
 		567CC7E72B3EDB6100891B1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		567CC7EA2B3EDB6100891B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		567CC7EC2B3EDB6100891B1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -37,6 +51,68 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		561895952B419250002BBD05 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		561895962B41925C002BBD05 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				561895A42B41A1EA002BBD05 /* NPCharacterView.swift */,
+				561895A62B41A1F2002BBD05 /* NPClanView.swift */,
+				561895A82B41A1FE002BBD05 /* NPVillageView.swift */,
+				561895AA2B41A206002BBD05 /* NPTeamView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		561895972B419266002BBD05 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				567CC7DE2B3EDB5F00891B1E /* AppDelegate.swift */,
+				567CC7E02B3EDB5F00891B1E /* SceneDelegate.swift */,
+				567CC7E72B3EDB6100891B1E /* Assets.xcassets */,
+				567CC7E92B3EDB6100891B1E /* LaunchScreen.storyboard */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		561895982B419271002BBD05 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				567CC7E22B3EDB5F00891B1E /* NPTabBarViewController.swift */,
+				5618959C2B41A195002BBD05 /* NPCharacterViewController.swift */,
+				5618959E2B41A19F002BBD05 /* NPClanViewController.swift */,
+				561895A02B41A1C9002BBD05 /* NPVillageViewController.swift */,
+				561895A22B41A1D7002BBD05 /* NPTeamViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		561895992B419288002BBD05 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		5618959A2B419293002BBD05 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		5618959B2B4192AA002BBD05 /* APIClients */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = APIClients;
+			sourceTree = "<group>";
+		};
 		567CC7D22B3EDB5F00891B1E = {
 			isa = PBXGroup;
 			children = (
@@ -56,12 +132,13 @@
 		567CC7DD2B3EDB5F00891B1E /* dattebayo-ios */ = {
 			isa = PBXGroup;
 			children = (
-				567CC7DE2B3EDB5F00891B1E /* AppDelegate.swift */,
-				567CC7E02B3EDB5F00891B1E /* SceneDelegate.swift */,
-				567CC7E22B3EDB5F00891B1E /* ViewController.swift */,
-				567CC7E42B3EDB5F00891B1E /* Main.storyboard */,
-				567CC7E72B3EDB6100891B1E /* Assets.xcassets */,
-				567CC7E92B3EDB6100891B1E /* LaunchScreen.storyboard */,
+				561895972B419266002BBD05 /* Resources */,
+				5618959B2B4192AA002BBD05 /* APIClients */,
+				5618959A2B419293002BBD05 /* Managers */,
+				561895992B419288002BBD05 /* Models */,
+				561895982B419271002BBD05 /* Controllers */,
+				561895962B41925C002BBD05 /* Views */,
+				561895952B419250002BBD05 /* ViewModels */,
 				567CC7EC2B3EDB6100891B1E /* Info.plist */,
 			);
 			path = "dattebayo-ios";
@@ -127,7 +204,6 @@
 			files = (
 				567CC7EB2B3EDB6100891B1E /* LaunchScreen.storyboard in Resources */,
 				567CC7E82B3EDB6100891B1E /* Assets.xcassets in Resources */,
-				567CC7E62B3EDB5F00891B1E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +214,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				567CC7E32B3EDB5F00891B1E /* ViewController.swift in Sources */,
+				5618959F2B41A19F002BBD05 /* NPClanViewController.swift in Sources */,
+				5618959D2B41A195002BBD05 /* NPCharacterViewController.swift in Sources */,
+				567CC7E32B3EDB5F00891B1E /* NPTabBarViewController.swift in Sources */,
+				561895A92B41A1FE002BBD05 /* NPVillageView.swift in Sources */,
+				561895AB2B41A206002BBD05 /* NPTeamView.swift in Sources */,
+				561895A12B41A1C9002BBD05 /* NPVillageViewController.swift in Sources */,
+				561895A32B41A1D7002BBD05 /* NPTeamViewController.swift in Sources */,
 				567CC7DF2B3EDB5F00891B1E /* AppDelegate.swift in Sources */,
+				561895A52B41A1EA002BBD05 /* NPCharacterView.swift in Sources */,
 				567CC7E12B3EDB5F00891B1E /* SceneDelegate.swift in Sources */,
+				561895A72B41A1F2002BBD05 /* NPClanView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		567CC7E42B3EDB5F00891B1E /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				567CC7E52B3EDB5F00891B1E /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		567CC7E92B3EDB6100891B1E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -295,9 +371,9 @@
 				DEVELOPMENT_TEAM = KFD27J2TGQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "dattebayo-ios/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Narutopedia;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -323,9 +399,9 @@
 				DEVELOPMENT_TEAM = KFD27J2TGQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "dattebayo-ios/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Narutopedia;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
